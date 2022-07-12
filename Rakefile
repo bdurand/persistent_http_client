@@ -28,3 +28,5 @@ namespace :appraisals do
     exec "bundle exec appraisal install"
   end
 end
+
+require "standard/rake"
