@@ -11,4 +11,5 @@ group :development, :test do
   gem "rake"
   gem "appraisal"
   gem "standard", "~>1.0"
+  gem "webrick"
 end
